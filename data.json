@@ -10,7 +10,11 @@
         "nickname": "Illi"
       }
     },
-    "children": [{
+    "children": [
+      { "name": "Aaqil",
+      "class": "man",}
+      
+      {
       "name": "James",
       "class": "man",
       "marriages": [{
